@@ -1,7 +1,7 @@
 # Singly Linked List in C
 
 * **Author:** Chandesh Patwari
-* **Intern ID:** :CITS0D545  
+* **Intern ID:** CITS0D545  
 * **Company:** CODTECH IT SOLUTIONS
 * **Mentor:** Neela Santosh
 * **Domain:** C Programming
